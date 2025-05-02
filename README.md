@@ -15,7 +15,7 @@
 
 - 🧠 I'm currently learning more about **C++**
 
-- 📫 Feel free to reach me out **govindag@mcmaster.ca**
+- 📫 Feel free to reach out: **govindag@mcmaster.ca**
 <!--Intro end-->
 
 <!--h1 without bottom border-->
