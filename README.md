@@ -11,9 +11,9 @@
 <!--Intro start-->
 - 🔭 I’m a second year computer science student at McMaster University
 
-- ⚙  I have a strong passion in software and hardware
+- ⚙  I have a strong passion for software and hardware
 
-- 🧠 I'm currently learning more about **C++, Node.js, AWS**
+- 🧠 I'm currently learning more about **C++**
 
 - 📫 Feel free to reach me out **govindag@mcmaster.ca**
 <!--Intro end-->
