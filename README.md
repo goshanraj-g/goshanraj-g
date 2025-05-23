@@ -6,7 +6,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m a rising second year computer science student at McMaster University
+- 🔭 I’m a rising second year at McMaster University studying computer science
 
 - ⚙  I have a strong passion for software and hardware
 
