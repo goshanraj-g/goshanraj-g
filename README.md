@@ -10,7 +10,7 @@
 
 - ⚙  I have a strong passion for software and hardware
 
-- 🧠 I'm currently learning more about **C++**
+- 🧠 I'm currently learning about **AWS**
 
 - 📫 Feel free to reach out: **govindag@mcmaster.ca**
 
