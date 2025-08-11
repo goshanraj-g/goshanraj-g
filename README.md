@@ -29,3 +29,5 @@
     <img src="https://skillicons.dev/icons?i=git,github,cpp,c,bash,linux,html,css,js,ts,nextjs,nodejs,react,tailwind,mysql,postgres,firebase,py,fastapi,flask,java,spring,vscode,aws&perline=14" />
   </a>
 </p>
+  <p>  <img src="https://komarev.com/ghpvc/?username=goshanraj-g" alt="Profile Views">
+</p>
