@@ -1,6 +1,6 @@
 # hey, I'm Gosh 
 
-I'm interested in low level development, and machine learning!
+I'm interested in software development, and machine learning!
 
 ## About Me  
 →  currently doing research in sports analytics & data @ McMaster University<br>
