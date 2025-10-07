@@ -8,8 +8,7 @@ I'm interested in software development, and machine learning!
 →  i'm into fitness, music, sports and exploring new places
 
 ## Projects I've Contributed to
-→ [LlamaIndex](https://github.com/run-llama/llama_index)
-
+→ [LlamaIndex](https://github.com/run-llama/llama_index) **~5M downloads/month**
 ## Let's Connect  
 
 ➣ [LinkedIn](https://www.linkedin.com/in/goshanrajgovindaraj/)  
