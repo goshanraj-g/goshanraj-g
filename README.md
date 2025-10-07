@@ -7,6 +7,9 @@ I'm interested in software development, and machine learning!
 →  studying computer science at McMaster University<br>
 →  i'm into fitness, music, sports and exploring new places
 
+## Projects I've Contributed to
+→ [LlamaIndex](https://github.com/run-llama/llama_index)
+
 ## Let's Connect  
 
 ➣ [LinkedIn](https://www.linkedin.com/in/goshanrajgovindaraj/)  
