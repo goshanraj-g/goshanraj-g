@@ -8,7 +8,7 @@ I'm interested in software development, and machine learning!
 →  i'm into fitness, cars, sports and exploring new places
 
 ## Projects I've Contributed to
-→ [LlamaIndex](https://github.com/run-llama/llama_index) **~5M downloads/month**
+→ [LlamaIndex](https://github.com/run-llama/llama_index) **~5M downloads/month** <br>
 → [Ruby](https://github.com/ruby/ruby)
 ## Let's Connect  
 
