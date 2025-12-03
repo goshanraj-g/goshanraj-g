@@ -9,6 +9,7 @@ I'm interested in software development, and machine learning!
 
 ## Projects I've Contributed to
 → [LlamaIndex](https://github.com/run-llama/llama_index) **~5M downloads/month**
+→ [Ruby](https://github.com/ruby/ruby)
 ## Let's Connect  
 
 ➣ [LinkedIn](https://www.linkedin.com/in/goshanrajgovindaraj/)  
