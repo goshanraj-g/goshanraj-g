@@ -9,7 +9,9 @@ I'm interested in software development, and machine learning!
 
 ## Projects I've Contributed to
 → [LlamaIndex](https://github.com/run-llama/llama_index) **~5M downloads/month** <br>
-→ [Ruby](https://github.com/ruby/ruby)
+&nbsp;&nbsp;&nbsp;&nbsp;- allowed AI agents to access the web w/ Tavily <br>
+→ [Ruby](https://github.com/ruby/ruby) **Powers Shopify, GitHub, Airbnb, and more** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- optimized array creation performance (N+1 calls to 1 call) <br>
 ## Let's Connect  
 
 ➣ [LinkedIn](https://www.linkedin.com/in/goshanrajgovindaraj/)  
