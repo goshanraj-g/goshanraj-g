@@ -3,7 +3,7 @@
 I'm interested in software development, and machine learning!
 
 ## About Me  
-→  interning as a software engineer @ IBM starting in Winter
+→  interning as a software engineer @ IBM starting in Winter<br>
 →  currently doing research in sports analytics & data @ McMaster University<br>
 →  studying computer science at McMaster University<br>
 →  i'm into fitness, cars, sports and exploring new places
