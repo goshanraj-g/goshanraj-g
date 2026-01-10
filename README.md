@@ -7,6 +7,7 @@ I'm interested in software development, and machine learning!
 →  currently doing research in sports analytics & data @ McMaster University<br>
 →  studying computer science at McMaster University<br>
 →  i'm into fitness, cars, sports and exploring new places
+→  always open to chat :)
 
 ## Projects I've Contributed to
 → [LlamaIndex](https://github.com/run-llama/llama_index/pull/20038) **(~5M downloads/month)** <br>
