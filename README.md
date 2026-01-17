@@ -3,10 +3,9 @@
 I'm interested in software development, and machine learning!
 
 ## About Me 
-→  i'm a software engineering intern at the Skills Network Team @ IBM<br>
+→  currently a software engineering intern at the Skills Network Team @ IBM<br>
 →  currently doing research in sports analytics & data @ McMaster University<br>
-→  studying computer science at McMaster University<br>
-→  i'm into fitness, cars, sports and exploring new places <br>
+→  i love fitness, cars, sports and travelling! <br>
 
 
 ## Projects I've Contributed to
