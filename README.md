@@ -1,11 +1,11 @@
-# hey, I'm Gosh 
+# Hey, I'm Gosh 
 
 I'm interested in software development, and machine learning!
 
 ## About Me 
-→  currently a software engineering intern at the Skills Network Team @ IBM<br>
-→  currently doing research in sports analytics & data @ McMaster University<br>
-→  i love fitness, cars, sports and travelling! <br>
+→  Currently a software engineering intern @ IBM<br>
+→  Currently doing ML research in sports analytics and data @ McMaster University<br>
+→  I love talking about cars, fitness, sports and travelling! <br>
 
 
 ## Projects I've Contributed to
