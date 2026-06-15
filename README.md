@@ -4,7 +4,7 @@ I'm interested in software development, and machine learning!
 
 ## About Me 
 →  Currently a software engineering intern @ IBM<br>
-→  Currently doing ML research in sports analytics and data @ McMaster University<br>
+→  Previously did ML research in sports analytics @ McMaster University<br>
 →  I love talking about cars, fitness, sports and travelling! <br>
 
 
