@@ -9,9 +9,9 @@ I'm interested in software development, and machine learning!
 
 
 ## Projects I've Contributed to
-→ [LlamaIndex](https://github.com/run-llama/llama_index/pull/20038)
+→ [LlamaIndex](https://github.com/run-llama/llama_index/pull/20038)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;- allowed AI agents to access the web w/ Parallel Web Systems & Tavily <br>
-→ [Ruby](https://github.com/ruby/ruby/pull/15391)
+→ [Ruby](https://github.com/ruby/ruby/pull/15391) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;- optimized the performance of the [ZJIT compiler](https://railsatscale.com/2025-12-24-launch-zjit/)<br>
 ## Let's Connect, I'm always open to chat :)
 
