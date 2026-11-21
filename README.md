@@ -1,20 +1,13 @@
-# Hey, I'm Gosh 
+<div align="center">
 
-I'm interested in software development, and machine learning!
+<br>
 
-## About Me 
-→  Currently a software engineering intern @ IBM<br>
-→  Previously did ML research in sports analytics @ McMaster University<br>
-→  I love talking about cars, fitness, sports and travelling! <br>
+software engineer @ IBM × cs @ McMaster University
 
+i build ai agents and agentic systems
 
-## Projects I've Contributed to
-→ [LlamaIndex](https://github.com/run-llama/llama_index/pull/20038)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;- allowed AI agents to access the web w/ Parallel Web Systems & Tavily <br>
-→ [Ruby](https://github.com/ruby/ruby/pull/15391) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;- optimized the performance of the [ZJIT compiler](https://railsatscale.com/2025-12-24-launch-zjit/)<br>
-## Let's Connect, I'm always open to chat :)
+[portfolio](https://goshanraj.ca) ▸ [linkedin](https://www.linkedin.com/in/goshanrajgovindaraj/) ▸ [email](mailto:govindag@mcmaster.ca)
 
-➣ [LinkedIn](https://www.linkedin.com/in/goshanrajgovindaraj/)  
-➣ [My Personal Website](https://goshanraj.ca)  
-➣ [Email](mailto:govindag@mcmaster.ca)  
+<br>
+
+</div>
